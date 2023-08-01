@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MosFazli/todolist" target="_blank">
-    <img alt="لوگوی دانشگاه صنعتی شاهرود" width="100" src="[https://raw.githubusercontent.com/mosfazli-x/shahrood-university-of-technology/main/Images/Logo/White/Logo%20Full.png](https://github.com/mosfazli-x/shahrood-university-of-technology/assets/141008399/92eaadbd-217b-409e-95f0-d286195265c1)">
+    <img alt="لوگوی دانشگاه صنعتی شاهرود" width="100" src="https://raw.githubusercontent.com/mosfazli-x/shahrood-university-of-technology/main/Images/Logo/White/Logo%20Full.png">
   </a>
 </p>
 <h2 align="center">لیست منابع درسی دانشگاه صنعتی شاهرود</h2>
