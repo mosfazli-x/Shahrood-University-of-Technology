@@ -11,10 +11,10 @@
 
 برای دسترسی بهتر و سریع تر به منابع، برای هر صفحه می توانید با استفاده از فایل راهنمایی که برای اون صفحه نوشته شده که با کلیک روی اون بخش میتونید به فایل های مورد نظرتون دسترسی یپدا کنید:
 
-| عنوان  | ردیف |
-| ------------- | ------------- |
-| مهندسی کامپیوتر  | 1 |
-| مهندسی برق | 2 |
-| مهندسی عمران  | 3 |
-| مهندسی شیمی  | 4 |
-| مهندسی صنایع  | 5 |
+| عنوان  |
+| ------------- |
+| [مهندسی کامپیوتر]([https://pages.github.com](https://github.com/mosfazli-x/Shahrood-University-of-Technology/tree/main/Computer%20Engineering(CE))) |
+| [مهندسی برق](https://github.com/mosfazli-x/Shahrood-University-of-Technology/tree/main/Electrical%20Engineering(EE)) |
+| [مهندسی عمران](https://pages.github.com/)  |
+| [مهندسی شیمی](https://pages.github.com/)  |
+| [مهندسی صنایع](https://pages.github.com/)  |
