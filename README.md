@@ -13,7 +13,7 @@
 
 | عنوان  |
 | ------------- |
-| [مهندسی کامپیوتر]([https://pages.github.com](https://github.com/mosfazli-x/Shahrood-University-of-Technology/tree/main/Computer%20Engineering(CE))) |
+| [مهندسی کامپیوتر](https://github.com/mosfazli-x/Shahrood-University-of-Technology/tree/main/Computer%20Engineering(CE)) |
 | [مهندسی برق](https://github.com/mosfazli-x/Shahrood-University-of-Technology/tree/main/Electrical%20Engineering(EE)) |
 | [مهندسی عمران](https://pages.github.com/)  |
 | [مهندسی شیمی](https://pages.github.com/)  |
